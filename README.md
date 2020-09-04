@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GritAr.github.com/rsschool-cv/cv
