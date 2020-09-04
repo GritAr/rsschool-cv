@@ -22,3 +22,12 @@ At the moment, my goal is to get the position of a junior web developer. It is i
 
 * Developed an online cinema on web development courses 
 * Worked in a team on a training project at the ARTOZAH company
+
+#### Education:
+
+* SkillUp
+* Self-education
+
+#### English:
+
+* Pre-intermediate
