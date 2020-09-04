@@ -17,3 +17,8 @@ At the moment, my goal is to get the position of a junior web developer. It is i
 5. GULP / Webpack
 6. React
 7. GIT
+
+#### Experience:
+
+* Developed an online cinema on web development courses 
+* Worked in a team on a training project at the ARTOZAH company
