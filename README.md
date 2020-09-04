@@ -1,1 +1,0 @@
-https://GritAr.github.com/rsschool-cv/cv
