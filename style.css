@@ -1,0 +1,92 @@
+body {}
+
+.container {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav li {
+    list-style: none;
+    padding: 20px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    }
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.contact-info__photo {max-height: 300px;}
+
+.summary, 
+.skills, 
+.experience, 
+.education, 
+.english {
+    width: 30%;
+    max-height: 300px;
+    margin: 0 auto;
+}
+
+#summary::before, 
+#experience::before, 
+#english::before, 
+#skills::after, 
+#education::after {
+    content: "";
+    width: 450px;
+    height: 300px;
+    background-size: cover;
+    
+}
+
+#summary::before {background-image: url(./assets/img/summary.jpg);}
+#skills::after {background-image: url(./assets/img/skills.jpg);}
+#experience::before {background-image: url(./assets/img/experience.jpg)}
+#education::after {background-image: url(./assets/img/education.jpg)}
+#english::before {background-image: url(./assets/img/english.jpg);}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+    height: 80px;
+    background-color: #000;
+    color: white;
+    vertical-align: middle;
+}
+
+
+
+ 
+  
+
+
