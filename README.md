@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/
+https://GritAr.github.io/rsschool-cv/
